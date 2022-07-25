@@ -1,9 +1,13 @@
 .demo{
     color: green;
 }
-.test{
+.text
+{
     color: red;
 }
 .text-color{
     color: yellow;
+}
+.capital{
+    color:green;
 }
