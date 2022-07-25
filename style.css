@@ -15,13 +15,18 @@
     color:red;
 }
 .web{
-    color:aqua:
+    color:aqua:font-size:40px;
 }.minister{
     color:blue
 }.alo{
     color:black;
 }.tree{
-    color:brown;
+    color:brown;font-size:20px;
 }.padma{
-    color:crimson;
+
+}.bangla{
+    color:coral;font-size:60px;
+}.rafi{
+    color:aqua;font-size:50px;
 }
+
