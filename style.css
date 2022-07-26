@@ -21,20 +21,23 @@
 }.alo{
     color:black;
     background-color:blueviolet;
-    height:70px
+    height:20px;
 }.tree{
     color:brown;font-size:20px;
     background-color:bisque;
 }.padma{
 
 }.bangla{
-    color:coral;font-size:60px;
+    color:coral;font-size:10px;
 }.rafi{
-    color:aqua;font-size:50px;
+    color:aqua;font-size:20px;
     background-color:blue;
-    height:70px;
+    height:30px
     width:200px;
 }.mod{
     color:bisque;
+    background-color:blue;
+    width:100px;
+    height:40px
 }
 
