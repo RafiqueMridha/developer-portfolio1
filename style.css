@@ -17,16 +17,22 @@
 .web{
     color:aqua:font-size:40px;
 }.minister{
-    color:blue
+    color:blue;
 }.alo{
     color:black;
+    background-color:blueviolet;
+    height:70px
 }.tree{
     color:brown;font-size:20px;
+    background-color:bisque;
 }.padma{
 
 }.bangla{
     color:coral;font-size:60px;
 }.rafi{
     color:aqua;font-size:50px;
+    background-color:blue;
+    height:70px;
+    width:200px;
 }
 
