@@ -10,12 +10,15 @@
 }
 .capital{
     color:green;
+    background-color:yellow;
 }
 .digital{
     color:red;
 }
 .web{
-    color:aqua:font-size:40px;
+    color:aqua;
+    background-color:black;
+    height:20px
 }.minister{
     color:blue;
 }.alo{
@@ -32,12 +35,24 @@
 }.rafi{
     color:aqua;font-size:20px;
     background-color:blue;
-    height:30px
+    height:30px;
     width:200px;
 }.mod{
     color:bisque;
     background-color:blue;
     width:100px;
     height:40px
+}#rafique{
+    color:blue;
+}#samim{
+    color:aqua;
+}#nahim{
+    color:brown;
+    background-color:blue;
+    height:20px;width:200px;
+}#sad{
+    color:red;
+    background-color:red;
+    width:100px;            ;
 }
 
