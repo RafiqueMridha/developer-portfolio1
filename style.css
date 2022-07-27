@@ -54,5 +54,11 @@
     color:red;
     background-color:red;
     width:100px;            ;
+}.tour{
+    color:aqua;background-color:yellow;height:40px;border:5px solid red;
+    border-radius:20px;
+}.the{
+    color:white;background-color:purple;height:50px;border:5px solid aqua;
+    border-radius:15px;
 }
 
