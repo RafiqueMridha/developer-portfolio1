@@ -60,5 +60,8 @@
 }.the{
     color:white;background-color:purple;height:50px;border:5px solid aqua;
     border-radius:15px;
+}.life-history{
+    color:white;background-color:blue;border:3px solid lightsalmon;
+    border-radius:10px
 }
 
