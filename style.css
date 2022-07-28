@@ -62,6 +62,11 @@
     border-radius:15px;
 }.life-history{
     color:white;background-color:blue;border:3px solid lightsalmon;
-    border-radius:10px
+    border-radius:10px;margin-left:40px;margin-right:150px;margin-top50px;
+}.life{
+    color:white;background-color:red;
+}.style h1{
+    color:aqua;background-color:blue;border:3px solid red;
+    border-radius:5px;margin:5px;text-align:center;
 }
 
